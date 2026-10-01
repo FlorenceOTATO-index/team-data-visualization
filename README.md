@@ -84,9 +84,9 @@ Current visualization topics include:
 
 The dashboard is designed to communicate the project’s most important findings without requiring the viewer to inspect code. It should allow users to explore accident severity by relevant dimensions such as time, location, weather, and road conditions.
 
-- **Dashboard link:** `[Add published dashboard link here]`
-- **Dashboard file:** `[Add dashboard filename or repository path here]`
-- **Dashboard tool:** `[Tableau / Power BI / other]`
+- **Dashboard link:** `[TBD]`
+- **Dashboard file:** `[TBD]`
+- **Dashboard tool:** `[Tableau]`
 
 Recommended dashboard elements include:
 
