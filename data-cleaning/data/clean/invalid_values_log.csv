@@ -1,0 +1,283 @@
+ID,column,original_value,rule,tier
+A-200813,Temperature(F),-77.8,outside -70..134,plausibility
+A-200841,Temperature(F),-77.8,outside -70..134,plausibility
+A-201316,Temperature(F),-77.8,outside -70..134,plausibility
+A-201318,Temperature(F),-77.8,outside -70..134,plausibility
+A-3753,Pressure(in),3.01,outside 15..35,plausibility
+A-53526,Pressure(in),3.04,outside 15..35,plausibility
+A-53536,Pressure(in),3.04,outside 15..35,plausibility
+A-62147,Pressure(in),2.99,outside 15..35,plausibility
+A-87267,Pressure(in),2.98,outside 15..35,plausibility
+A-116976,Pressure(in),0.12,outside 15..35,plausibility
+A-159005,Pressure(in),3.0,outside 15..35,plausibility
+A-159008,Pressure(in),3.0,outside 15..35,plausibility
+A-220826,Visibility(mi),105.0,outside 0..100,plausibility
+A-64267,Wind_Speed(mph),241.7,outside 0..150,plausibility
+A-114587,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-114595,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-114640,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-114647,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-114654,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-134899,Wind_Speed(mph),162.3,outside 0..150,plausibility
+A-273857,Temperature(F),143.6,outside -70..134,plausibility
+A-273863,Temperature(F),136.4,outside -70..134,plausibility
+A-273864,Temperature(F),136.4,outside -70..134,plausibility
+A-291725,Temperature(F),136.4,outside -70..134,plausibility
+A-292024,Temperature(F),161.6,outside -70..134,plausibility
+A-292043,Temperature(F),140.0,outside -70..134,plausibility
+A-432472,Pressure(in),9.9,outside 15..35,plausibility
+A-301384,Visibility(mi),111.0,outside 0..100,plausibility
+A-301387,Visibility(mi),111.0,outside 0..100,plausibility
+A-491524,Wind_Speed(mph),174.9,outside 0..150,plausibility
+A-504600,Temperature(F),167.0,outside -70..134,plausibility
+A-512461,Pressure(in),39.45,outside 15..35,plausibility
+A-514612,Pressure(in),38.44,outside 15..35,plausibility
+A-514613,Pressure(in),38.44,outside 15..35,plausibility
+A-514632,Pressure(in),38.47,outside 15..35,plausibility
+A-514796,Pressure(in),38.44,outside 15..35,plausibility
+A-514873,Pressure(in),38.44,outside 15..35,plausibility
+A-514981,Pressure(in),38.44,outside 15..35,plausibility
+A-515272,Pressure(in),38.44,outside 15..35,plausibility
+A-515281,Pressure(in),38.44,outside 15..35,plausibility
+A-515596,Pressure(in),38.44,outside 15..35,plausibility
+A-595776,Pressure(in),57.54,outside 15..35,plausibility
+A-609598,Pressure(in),58.1,outside 15..35,plausibility
+A-508159,Wind_Speed(mph),162.3,outside 0..150,plausibility
+A-688030,Wind_Speed(mph),188.0,outside 0..150,plausibility
+A-597351,Precipitation(in),36.47,outside 0..12,plausibility
+A-938653,Temperature(F),196.0,outside -70..134,plausibility
+A-938722,Temperature(F),196.0,outside -70..134,plausibility
+A-971616,Pressure(in),58.03,outside 15..35,plausibility
+A-896804,Wind_Speed(mph),243.0,outside 0..150,plausibility
+A-769716,Precipitation(in),23.97,outside 0..12,plausibility
+A-938653,Wind_Chill(F),196.0,outside -110..134 or above Temperature(F),plausibility
+A-938722,Wind_Chill(F),196.0,outside -110..134 or above Temperature(F),plausibility
+A-1072876,Temperature(F),136.0,outside -70..134,plausibility
+A-1072934,Temperature(F),136.0,outside -70..134,plausibility
+A-1080369,Pressure(in),58.32,outside 15..35,plausibility
+A-1213547,Pressure(in),58.04,outside 15..35,plausibility
+A-1072876,Wind_Chill(F),136.0,outside -110..134 or above Temperature(F),plausibility
+A-1072934,Wind_Chill(F),136.0,outside -110..134 or above Temperature(F),plausibility
+A-1288293,Temperature(F),189.0,outside -70..134,plausibility
+A-1389922,Temperature(F),174.0,outside -70..134,plausibility
+A-1389924,Temperature(F),174.0,outside -70..134,plausibility
+A-1390354,Temperature(F),203.0,outside -70..134,plausibility
+A-1288293,Wind_Chill(F),189.0,outside -110..134 or above Temperature(F),plausibility
+A-1389922,Wind_Chill(F),174.0,outside -110..134 or above Temperature(F),plausibility
+A-1389924,Wind_Chill(F),174.0,outside -110..134 or above Temperature(F),plausibility
+A-1545574,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545576,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545578,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545580,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545581,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545583,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545584,Temperature(F),-89.0,outside -70..134,plausibility
+A-1545585,Temperature(F),-89.0,outside -70..134,plausibility
+A-1706853,Wind_Speed(mph),230.0,outside 0..150,plausibility
+A-1706862,Wind_Speed(mph),230.0,outside 0..150,plausibility
+A-1706865,Wind_Speed(mph),230.0,outside 0..150,plausibility
+A-1706867,Wind_Speed(mph),230.0,outside 0..150,plausibility
+A-1748958,Wind_Speed(mph),255.0,outside 0..150,plausibility
+A-2009268,Wind_Speed(mph),161.0,outside 0..150,plausibility
+A-1879782,Precipitation(in),25.0,outside 0..12,plausibility
+A-2201523,Pressure(in),0.0,outside 15..35,definition
+A-2056765,Visibility(mi),101.0,outside 0..100,plausibility
+A-2162302,Wind_Speed(mph),157.0,outside 0..150,plausibility
+A-2169846,Wind_Speed(mph),175.0,outside 0..150,plausibility
+A-2169848,Wind_Speed(mph),175.0,outside 0..150,plausibility
+A-2169852,Wind_Speed(mph),175.0,outside 0..150,plausibility
+A-2368970,Pressure(in),0.3,outside 15..35,plausibility
+A-2709337,Temperature(F),-77.8,outside -70..134,plausibility
+A-2709340,Temperature(F),-77.8,outside -70..134,plausibility
+A-2709347,Temperature(F),-77.8,outside -70..134,plausibility
+A-2586682,Pressure(in),0.39,outside 15..35,plausibility
+A-2586684,Pressure(in),0.29,outside 15..35,plausibility
+A-2586686,Pressure(in),0.29,outside 15..35,plausibility
+A-2671638,Pressure(in),9.9,outside 15..35,plausibility
+A-2648683,Wind_Speed(mph),703.1,outside 0..150,plausibility
+A-2648684,Wind_Speed(mph),703.1,outside 0..150,plausibility
+A-3008090,Temperature(F),-77.8,outside -70..134,plausibility
+A-2989389,Pressure(in),2.99,outside 15..35,plausibility
+A-2989392,Pressure(in),2.99,outside 15..35,plausibility
+A-2989393,Pressure(in),2.99,outside 15..35,plausibility
+A-2989396,Pressure(in),2.99,outside 15..35,plausibility
+A-2801700,Wind_Speed(mph),254.3,outside 0..150,plausibility
+A-2801733,Wind_Speed(mph),254.3,outside 0..150,plausibility
+A-3122012,Temperature(F),-77.8,outside -70..134,plausibility
+A-3122017,Temperature(F),-77.8,outside -70..134,plausibility
+A-3140259,Pressure(in),3.01,outside 15..35,plausibility
+A-3082453,Visibility(mi),140.0,outside 0..100,plausibility
+A-3114639,Wind_Speed(mph),328.0,outside 0..150,plausibility
+A-3154817,Wind_Speed(mph),580.0,outside 0..150,plausibility
+A-3154839,Wind_Speed(mph),580.0,outside 0..150,plausibility
+A-3304700,Temperature(F),158.0,outside -70..134,plausibility
+A-3288043,Pressure(in),0.3,outside 15..35,plausibility
+A-3288052,Pressure(in),0.3,outside 15..35,plausibility
+A-3288068,Pressure(in),0.3,outside 15..35,plausibility
+A-3304993,Pressure(in),2.99,outside 15..35,plausibility
+A-3304997,Pressure(in),2.99,outside 15..35,plausibility
+A-3442215,Visibility(mi),111.0,outside 0..100,plausibility
+A-3268003,Wind_Speed(mph),208.3,outside 0..150,plausibility
+A-3354734,Wind_Speed(mph),214.0,outside 0..150,plausibility
+A-3354735,Wind_Speed(mph),214.0,outside 0..150,plausibility
+A-3424427,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-3424437,Wind_Speed(mph),822.8,outside 0..150,plausibility
+A-3524519,Pressure(in),3.04,outside 15..35,plausibility
+A-3524529,Pressure(in),3.04,outside 15..35,plausibility
+A-3530675,Pressure(in),2.99,outside 15..35,plausibility
+A-3571777,Pressure(in),0.02,outside 15..35,plausibility
+A-3711476,Pressure(in),38.44,outside 15..35,plausibility
+A-3750215,Pressure(in),39.45,outside 15..35,plausibility
+A-3552297,Wind_Speed(mph),166.9,outside 0..150,plausibility
+A-3580342,Wind_Speed(mph),471.8,outside 0..150,plausibility
+A-3648096,Wind_Speed(mph),174.9,outside 0..150,plausibility
+A-3990563,Temperature(F),140.0,outside -70..134,plausibility
+A-3780883,Pressure(in),58.1,outside 15..35,plausibility
+A-3831567,Pressure(in),38.44,outside 15..35,plausibility
+A-3862944,Pressure(in),58.63,outside 15..35,plausibility
+A-3880740,Pressure(in),39.45,outside 15..35,plausibility
+A-3938982,Pressure(in),58.63,outside 15..35,plausibility
+A-3994734,Pressure(in),38.44,outside 15..35,plausibility
+A-3996972,Pressure(in),38.69,outside 15..35,plausibility
+A-4027450,Pressure(in),58.39,outside 15..35,plausibility
+A-3782868,Wind_Speed(mph),190.0,outside 0..150,plausibility
+A-3990563,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4148280,Temperature(F),140.0,outside -70..134,plausibility
+A-4237024,Temperature(F),162.0,outside -70..134,plausibility
+A-4239885,Temperature(F),207.0,outside -70..134,plausibility
+A-4255265,Temperature(F),140.0,outside -70..134,plausibility
+A-4057668,Pressure(in),58.1,outside 15..35,plausibility
+A-4094234,Pressure(in),38.44,outside 15..35,plausibility
+A-4109402,Pressure(in),38.44,outside 15..35,plausibility
+A-4121277,Pressure(in),38.44,outside 15..35,plausibility
+A-4156582,Pressure(in),58.63,outside 15..35,plausibility
+A-4200113,Pressure(in),39.45,outside 15..35,plausibility
+A-4217581,Wind_Speed(mph),185.0,outside 0..150,plausibility
+A-4148280,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4237024,Wind_Chill(F),162.0,outside -110..134 or above Temperature(F),plausibility
+A-4239885,Wind_Chill(F),207.0,outside -110..134 or above Temperature(F),plausibility
+A-4255265,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4316642,Temperature(F),140.0,outside -70..134,plausibility
+A-4369015,Temperature(F),140.0,outside -70..134,plausibility
+A-4405903,Temperature(F),172.0,outside -70..134,plausibility
+A-4497355,Temperature(F),140.0,outside -70..134,plausibility
+A-4351166,Pressure(in),39.45,outside 15..35,plausibility
+A-4356859,Pressure(in),58.63,outside 15..35,plausibility
+A-4378658,Pressure(in),38.44,outside 15..35,plausibility
+A-4380997,Pressure(in),38.69,outside 15..35,plausibility
+A-4383713,Pressure(in),58.63,outside 15..35,plausibility
+A-4458632,Pressure(in),38.44,outside 15..35,plausibility
+A-4516520,Pressure(in),58.63,outside 15..35,plausibility
+A-4521109,Pressure(in),38.44,outside 15..35,plausibility
+A-4316642,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4369015,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4405903,Wind_Chill(F),172.0,outside -110..134 or above Temperature(F),plausibility
+A-4497355,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4580836,Temperature(F),207.0,outside -70..134,plausibility
+A-4748588,Temperature(F),162.0,outside -70..134,plausibility
+A-4757666,Temperature(F),140.0,outside -70..134,plausibility
+A-4548785,Pressure(in),38.44,outside 15..35,plausibility
+A-4685070,Pressure(in),38.44,outside 15..35,plausibility
+A-4714715,Pressure(in),0.0,outside 15..35,definition
+A-4728918,Pressure(in),38.44,outside 15..35,plausibility
+A-4729298,Pressure(in),38.44,outside 15..35,plausibility
+A-4731656,Pressure(in),38.44,outside 15..35,plausibility
+A-4734432,Pressure(in),38.44,outside 15..35,plausibility
+A-4760931,Pressure(in),38.44,outside 15..35,plausibility
+A-4777459,Pressure(in),38.69,outside 15..35,plausibility
+A-4580836,Wind_Chill(F),207.0,outside -110..134 or above Temperature(F),plausibility
+A-4748588,Wind_Chill(F),162.0,outside -110..134 or above Temperature(F),plausibility
+A-4757666,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-4818739,Temperature(F),140.0,outside -70..134,plausibility
+A-4799576,Pressure(in),38.69,outside 15..35,plausibility
+A-4855255,Pressure(in),38.44,outside 15..35,plausibility
+A-4877854,Pressure(in),38.44,outside 15..35,plausibility
+A-4879252,Pressure(in),57.54,outside 15..35,plausibility
+A-4887698,Pressure(in),38.44,outside 15..35,plausibility
+A-4892441,Pressure(in),38.69,outside 15..35,plausibility
+A-4895352,Pressure(in),38.44,outside 15..35,plausibility
+A-4896242,Pressure(in),58.39,outside 15..35,plausibility
+A-4897977,Pressure(in),38.44,outside 15..35,plausibility
+A-4973646,Pressure(in),39.45,outside 15..35,plausibility
+A-4818739,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-5055242,Temperature(F),138.0,outside -70..134,plausibility
+A-5067455,Temperature(F),207.0,outside -70..134,plausibility
+A-5072426,Temperature(F),172.0,outside -70..134,plausibility
+A-5245252,Temperature(F),140.0,outside -70..134,plausibility
+A-5261173,Temperature(F),140.0,outside -70..134,plausibility
+A-5039177,Pressure(in),38.44,outside 15..35,plausibility
+A-5144744,Pressure(in),39.45,outside 15..35,plausibility
+A-5176871,Pressure(in),38.44,outside 15..35,plausibility
+A-5211961,Pressure(in),38.44,outside 15..35,plausibility
+A-5212637,Pressure(in),38.44,outside 15..35,plausibility
+A-5228942,Pressure(in),58.63,outside 15..35,plausibility
+A-5254896,Pressure(in),58.63,outside 15..35,plausibility
+A-5259556,Pressure(in),38.44,outside 15..35,plausibility
+A-5264257,Pressure(in),58.1,outside 15..35,plausibility
+A-5276088,Pressure(in),38.47,outside 15..35,plausibility
+A-5055242,Wind_Chill(F),138.0,outside -110..134 or above Temperature(F),plausibility
+A-5067455,Wind_Chill(F),207.0,outside -110..134 or above Temperature(F),plausibility
+A-5072426,Wind_Chill(F),172.0,outside -110..134 or above Temperature(F),plausibility
+A-5245252,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-5261173,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-5324107,Temperature(F),140.0,outside -70..134,plausibility
+A-5448698,Temperature(F),140.0,outside -70..134,plausibility
+A-5305106,Pressure(in),38.44,outside 15..35,plausibility
+A-5311481,Pressure(in),58.63,outside 15..35,plausibility
+A-5388689,Pressure(in),38.44,outside 15..35,plausibility
+A-5414834,Pressure(in),38.44,outside 15..35,plausibility
+A-5445977,Pressure(in),39.45,outside 15..35,plausibility
+A-5475325,Pressure(in),52.76,outside 15..35,plausibility
+A-5392267,Wind_Speed(mph),185.0,outside 0..150,plausibility
+A-5324107,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-5448698,Wind_Chill(F),140.0,outside -110..134 or above Temperature(F),plausibility
+A-5642539,Temperature(F),196.0,outside -70..134,plausibility
+A-5733015,Temperature(F),136.0,outside -70..134,plausibility
+A-5607072,Pressure(in),56.54,outside 15..35,plausibility
+A-5720594,Pressure(in),58.13,outside 15..35,plausibility
+A-5680930,Visibility(mi),140.0,outside 0..100,plausibility
+A-5785251,Wind_Speed(mph),812.0,outside 0..150,plausibility
+A-5642539,Wind_Chill(F),196.0,outside -110..134 or above Temperature(F),plausibility
+A-5733015,Wind_Chill(F),136.0,outside -110..134 or above Temperature(F),plausibility
+A-5892168,Temperature(F),196.0,outside -70..134,plausibility
+A-5946085,Pressure(in),52.76,outside 15..35,plausibility
+A-5892168,Wind_Chill(F),196.0,outside -110..134 or above Temperature(F),plausibility
+A-6056189,Temperature(F),196.0,outside -70..134,plausibility
+A-6284258,Pressure(in),56.31,outside 15..35,plausibility
+A-6269737,Wind_Speed(mph),243.0,outside 0..150,plausibility
+A-6056189,Wind_Chill(F),196.0,outside -110..134 or above Temperature(F),plausibility
+A-6320814,Wind_Speed(mph),1087.0,outside 0..150,plausibility
+A-6494502,Precipitation(in),24.0,outside 0..12,plausibility
+A-6595199,Pressure(in),38.94,outside 15..35,plausibility
+A-6651803,Pressure(in),58.04,outside 15..35,plausibility
+A-6746487,Pressure(in),38.94,outside 15..35,plausibility
+A-6656784,Visibility(mi),120.0,outside 0..100,plausibility
+A-6721025,Visibility(mi),120.0,outside 0..100,plausibility
+A-6764609,Visibility(mi),120.0,outside 0..100,plausibility
+A-6793898,Visibility(mi),120.0,outside 0..100,plausibility
+A-6788881,Precipitation(in),24.0,outside 0..12,plausibility
+A-6829472,Pressure(in),58.04,outside 15..35,plausibility
+A-6984491,Pressure(in),57.74,outside 15..35,plausibility
+A-6804689,Wind_Speed(mph),211.0,outside 0..150,plausibility
+A-7014845,Wind_Speed(mph),232.0,outside 0..150,plausibility
+A-6891826,Precipitation(in),24.0,outside 0..12,plausibility
+A-7153842,Temperature(F),-89.0,outside -70..134,plausibility
+A-7153848,Temperature(F),-89.0,outside -70..134,plausibility
+A-7142243,Wind_Speed(mph),984.0,outside 0..150,plausibility
+A-7234025,Wind_Speed(mph),518.0,outside 0..150,plausibility
+A-7234036,Wind_Speed(mph),518.0,outside 0..150,plausibility
+A-7433201,Temperature(F),170.6,outside -70..134,plausibility
+A-7434174,Pressure(in),0.0,outside 15..35,definition
+A-7328983,Visibility(mi),110.0,outside 0..100,plausibility
+A-7366026,Visibility(mi),130.0,outside 0..100,plausibility
+A-7320443,Wind_Speed(mph),169.0,outside 0..150,plausibility
+A-7320444,Wind_Speed(mph),169.0,outside 0..150,plausibility
+A-7340730,Precipitation(in),24.0,outside 0..12,plausibility
+A-7553373,Temperature(F),168.8,outside -70..134,plausibility
+A-7646497,Temperature(F),-77.8,outside -70..134,plausibility
+A-7647640,Pressure(in),2.99,outside 15..35,plausibility
+A-7679250,Pressure(in),0.3,outside 15..35,plausibility
+A-7679253,Pressure(in),0.3,outside 15..35,plausibility
+A-7636973,Visibility(mi),140.0,outside 0..100,plausibility
+A-7646670,Wind_Speed(mph),245.1,outside 0..150,plausibility
+A-7770041,Wind_Speed(mph),161.0,outside 0..150,plausibility

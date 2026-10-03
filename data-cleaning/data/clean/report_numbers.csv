@@ -1,0 +1,41 @@
+,value
+raw rows,7728394
+raw columns,46
+"duplicates, raw text (ID excluded)",102338
+"duplicates, extra after normalisation",15357
+duplicates removed (total),117695
+rows after cleaning,7610699
+columns after cleaning,79
+"rows sharing start/end time and location (kept, flagged)",181573
+"rows in event groups (kept, flagged)",1045620
+rows in cross-provider groups,8566
+rows in groups with conflicting Severity,147120
+fractional-second Start_Time values,743166
+durations > 365 days (set to missing),4229
+weather reading > 1 h from start,93903
+Street values with leading/trailing spaces,1696520
+Description 'Unknown' placeholders,34
+'N/A Precipitation' labels,3252
+weather labels harmonised (Apr 2019 vocabulary),1193320
+"precipitation missing, month before Apr 2019 (%)",87.1
+"precipitation missing, Apr 2019 (%)",3.7
+masked values in total (invalid_values_log.csv),282
+masked: definition-invalid,3
+masked: implausible (beyond US records),279
+masked: Pressure(in),116
+masked: Temperature(F),63
+masked: Wind_Speed(mph),51
+masked: Wind_Chill(F),31
+masked: Visibility(mi),14
+masked: Precipitation(in),7
+Sunrise_Sunset filled from solar position,22724
+Sunrise_Sunset agreement with solar position (%),99.77
+Timezone filled from county / single-timezone state,7703
+Timezone left missing,3
+random split: train / test rows,"6,089,098 / 1,521,601"
+time split: hold-out starts,2022-05-01
+time split: train / test rows,"6,248,916 / 1,361,783"
+Severity 1 after cleaning,65570
+Severity 2 after cleaning,6048391
+Severity 3 after cleaning,1295235
+Severity 4 after cleaning,201503
