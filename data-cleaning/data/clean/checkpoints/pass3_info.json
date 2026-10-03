@@ -1,0 +1,14 @@
+{
+  "rows": 7610699,
+  "columns": 79,
+  "near-duplicate groups (size > 1)": 435150,
+  "rows in near-duplicate groups": 1045620,
+  "rows sharing exact start/end time and location": 181573,
+  "largest event group": 38,
+  "rows in cross-source groups": 8566,
+  "rows in groups with conflicting Severity": 147120,
+  "random split: train / test rows": "6,089,098 / 1,521,601",
+  "time split: hold-out starts": "2022-05-01",
+  "time split: train / test rows": "6,248,916 / 1,361,783",
+  "seconds": 23.3
+}
