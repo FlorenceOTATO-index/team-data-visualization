@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw data is never committed (too big / redownloadable)
+data/raw/*
+!data/raw/.gitkeep
+
+# Secrets
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Dashboard caches
+.streamlit/
+
+# OS
+.DS_Store
