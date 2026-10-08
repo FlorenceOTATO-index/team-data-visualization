@@ -2,6 +2,17 @@
 
 SJSU DATA 230 — Data Visualization Group Project
 
+## Team
+
+- **Saida Mahmood** — data cleaning & processing
+
+- **Tzu-Yang Huang** - preliminary ML
+
+- **Nino Pelko** - data exploratory analysis
+
+- **Jue Wang** - data introduction and Tableau dashboard
+
+  
 This project explores patterns in the U.S. Accidents dataset through exploratory data analysis (EDA), interactive visualizations, and a preliminary
 machine-learning plan. The project focuses on identifying how accident severity varies across time, location, weather, road, and environmental conditions.
 
@@ -328,16 +339,6 @@ Because the full dataset is large and subject to Kaggle access requirements, it 
 | Notebooks | number, initials, topic | `notebooks/02_jw_severity_by_hour.ipynb` |
 | Figures | descriptive, committed | `reports/figures/severity_by_hour.png` |
 | Code style | `snake_case` names | `severity_by_state` |
-
-## Team
-
-- **Saida Mahmood** — data cleaning & processing
-
-- **Tzu-Yang Huang**
-
-- **Nino Pelko**
-
-- **Jue Wang**
 
 ### Contribution evidence
 
