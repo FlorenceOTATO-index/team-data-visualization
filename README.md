@@ -2,6 +2,9 @@
 
 SJSU DATA 230 — Data Visualization Group Project
 
+This project explores patterns in the U.S. Accidents dataset through exploratory data analysis (EDA), interactive visualizations, and a preliminary
+machine-learning plan. The project focuses on identifying how accident severity varies across time, location, weather, road, and environmental conditions.
+
 ## Team
 
 - **Saida Mahmood** — data cleaning & processing
@@ -12,9 +15,6 @@ SJSU DATA 230 — Data Visualization Group Project
 
 - **Jue Wang** - data introduction and Tableau dashboard
 
-  
-This project explores patterns in the U.S. Accidents dataset through exploratory data analysis (EDA), interactive visualizations, and a preliminary
-machine-learning plan. The project focuses on identifying how accident severity varies across time, location, weather, road, and environmental conditions.
 
 ## Project question
 
