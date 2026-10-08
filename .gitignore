@@ -19,3 +19,7 @@ data/raw/*
 
 # OS
 .DS_Store
+
+# Local parquet duplicates of the committed dashboard CSVs
+/data/processed/dashboard_grain.parquet
+/data/processed/dashboard_road.parquet
